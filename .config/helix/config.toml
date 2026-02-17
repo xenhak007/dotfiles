@@ -1,0 +1,45 @@
+theme = "catppuccin_mocha"
+
+[editor]
+scrolloff = 999
+line-number = "relative"
+bufferline = "multiple"
+true-color = true
+color-modes = true
+mouse = false
+end-of-line-diagnostics = "hint"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.soft-wrap]
+enable = true
+wrap-indicator = ""
+
+[editor.indent-guides]
+render = true
+character = "▏"
+skip-levels = 1
+
+[editor.statusline]
+left = ["mode", "read-only-indicator", "spinner"]
+center = ["file-name", "file-modification-indicator"]
+right = ["diagnostics", "selections", "position", "file-type"]
+separator = "│"
+diagnostics = ["warning", "error"]
+workspace-diagnostics = ["warning", "error"]
+
+[editor.inline-diagnostics]
+cursor-line = "warning"
+
+[keys.normal]
+C-e = [
+  ':sh rm -f /tmp/unique-file',
+  ':insert-output yazi "%{buffer_name}" --chooser-file=/tmp/unique-file',
+  ':sh printf "\x1b[?1049h\x1b[?2004h" > /dev/tty',
+  ':open %sh{cat /tmp/unique-file}',
+  ':redraw',
+]
+
