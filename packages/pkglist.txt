@@ -4,6 +4,7 @@ autotiling-rs
 base
 base-devel
 bat
+bc
 bleachbit
 blueman
 brightnessctl
