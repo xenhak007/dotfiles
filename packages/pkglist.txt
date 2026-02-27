@@ -31,6 +31,7 @@ htop
 imagemagick
 iwd
 jq
+kooha
 libpulse
 linux
 linux-firmware
