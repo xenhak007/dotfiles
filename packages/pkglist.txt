@@ -17,9 +17,9 @@ fd
 ffmpeg
 firefox
 fish
+foot
 fuzzel
 fzf
-ghostty
 git
 gnome-disk-utility
 gnome-text-editor
@@ -82,7 +82,6 @@ tldr
 tlp
 tlp-rdw
 tmux
-ttf-firacode-nerd
 ttf-jetbrains-mono-nerd
 unzip
 vivaldi
