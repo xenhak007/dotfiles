@@ -17,11 +17,12 @@ fd
 ffmpeg
 firefox
 fish
-foot
 fuzzel
 fzf
+ghostty
 git
 gnome-disk-utility
+gnome-text-editor
 gnome-themes-extra
 grim
 gst-plugin-pipewire
@@ -29,6 +30,7 @@ gthumb
 helix
 htop
 imagemagick
+impala
 iwd
 jq
 kooha
@@ -36,7 +38,6 @@ libpulse
 linux
 linux-firmware
 linux-lts
-lite-xl
 lsd
 man-db
 marksman
@@ -104,5 +105,6 @@ xorg-server
 xorg-xinit
 xorg-xwayland
 yazi
+zed
 zoxide
 zram-generator
