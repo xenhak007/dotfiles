@@ -7,6 +7,9 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "preview_tabs": {
+    "enabled": false
+  },
   "buffer_font_family": "JetBrainsMono Nerd Font",
   "session": {
     "trust_all_worktrees": true,
@@ -24,5 +27,5 @@
   "base_keymap": "VSCode",
   "ui_font_size": 17,
   "buffer_font_size": 16,
-  "theme": "Tokyo Night",
+  "theme": "Catppuccin Mocha",
 }
