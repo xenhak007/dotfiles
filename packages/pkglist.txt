@@ -21,6 +21,7 @@ foot
 fuzzel
 fzf
 git
+gnome-keyring
 gnome-disk-utility
 gnome-text-editor
 gnome-themes-extra
@@ -41,6 +42,7 @@ linux-lts
 lsd
 man-db
 marksman
+ncdu
 mpv
 nemo
 nemo-fileroller
