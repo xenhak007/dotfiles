@@ -76,7 +76,7 @@ tlp
 tlp-rdw
 tmux
 ttf-dejavu
-ttf-jetbrains-mono-nerd
+ttf-firacode-nerd
 ttf-liberation
 ttf-roboto
 unzip
@@ -86,6 +86,8 @@ whois
 wiremix
 wireplumber
 wl-clipboard
+wl-mirror
+xdg-desktop-portal-wlr
 xfce4-screenshooter
 yay-bin
 yay-bin-debug
