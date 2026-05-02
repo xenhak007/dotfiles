@@ -42,6 +42,12 @@ exec swayidle -w \
 # your displays after another 300 seconds, and turn your screens back on when
 # resumed. It will also lock your screen before your computer goes to sleep.
 
+# Mirror screen
+bindsym $mod+m exec wl-mirror eDP-1 & \
+    sleep 1 && \
+    swaymsg "[at.yrlf.wl_mirror]" move container to output HDMI-A-1 && \
+    swaymsg "[at.yrlf.wl_mirror]" fullscreen enable
+
 ### Input configuration
 #
 # Example configuration:
