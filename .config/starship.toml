@@ -1,17 +1,8 @@
-"$schema" = 'https://starship.rs/config-schema.json'
-
 [aws]
 symbol = " "
 
 [azure]
 symbol = " "
-
-[battery]
-full_symbol = "󰁹 "
-charging_symbol = "󰂄 "
-discharging_symbol = "󰂃 "
-unknown_symbol = "󰂑 "
-empty_symbol = "󰂎 "
 
 [buf]
 symbol = " "
