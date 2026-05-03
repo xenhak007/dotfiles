@@ -52,6 +52,7 @@ papirus-icon-theme
 pastel
 pavucontrol
 pipectl
+pipeline-gtk
 pipewire
 pipewire-alsa
 pipewire-jack
