@@ -17,6 +17,7 @@ foot
 foot-terminfo
 fuzzel
 fzf
+gcolor3
 git
 gnome-calculator
 gnome-disk-utility
