@@ -18,6 +18,7 @@ foot-terminfo
 fuzzel
 fzf
 git
+gnome-calculator
 gnome-disk-utility
 gnome-themes-extra
 grim
@@ -49,6 +50,7 @@ pamixer
 papirus-icon-theme
 pastel
 pavucontrol
+pipectl
 pipewire
 pipewire-alsa
 pipewire-jack
@@ -75,6 +77,7 @@ tlp
 tlp-rdw
 tmux
 ttf-dejavu
+ttf-jetbrains-mono-nerd
 ttf-firacode-nerd
 ttf-liberation
 ttf-roboto
