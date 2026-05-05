@@ -5,7 +5,6 @@ bat
 bleachbit
 blueman
 bluetui
-calc
 chromium
 duf
 evince
