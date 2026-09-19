@@ -27,7 +27,7 @@ for_window [app_id="org.gnome.Calculator"] floating enable
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg $HOME/Pictures/Wallpapers/sunrays.jpg fill
+output * bg $HOME/Pictures/Wallpapers/arch.png fill
 #
 # Example configuration:
 #
