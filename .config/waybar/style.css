@@ -60,7 +60,7 @@ window#waybar {
 /* ==================== CLOCK ==================== */
 #clock {
   background-color: @surface1;
-  color: @green;
+  color: @sky;
   font-weight: bold;
 }
 
