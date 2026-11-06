@@ -10,7 +10,7 @@
 
 /* ==================== BAR ==================== */
 window#waybar {
-  background: transparent;
+  background: @bg0;
 }
 
 /* ==================== MODULE BASE ==================== */
