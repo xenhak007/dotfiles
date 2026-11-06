@@ -1,1 +1,1 @@
-# My dotfiles based on the everforest theme 🌲
+# My dotfiles based on the Gruvbox theme
