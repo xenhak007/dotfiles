@@ -80,7 +80,7 @@ window#waybar {
   color: @bg0;
   animation-name: blink;
   animation-duration: 0.8s;
-  animation-timing-function: steps(2);
+  animation-timing-function: steps(12);
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
