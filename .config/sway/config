@@ -18,6 +18,9 @@ set $term ghostty
 # Your preferred application launcher
 set $menu fuzzel
 
+# Set font
+font pango:JetBrainsMono 11
+
 # Set cursor theme and size
 seat seat0 xcursor_theme Vimix-cursors 28
 
