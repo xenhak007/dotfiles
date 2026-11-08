@@ -22,7 +22,7 @@ set $menu fuzzel
 font pango:JetBrainsMono 11
 
 # Set cursor theme and size
-seat seat0 xcursor_theme Vimix-cursors 28
+seat seat0 xcursor_theme Bibata-Modern-Amber 28
 
 # Open calculator in floating window
 for_window [app_id="org.gnome.Calculator"] floating enable
