@@ -117,7 +117,6 @@ window#waybar {
 }
 
 #bluetooth.connected {
-  background-color: #3c3836; /* bg1 */
   color: #83a598; /* blue */
 }
 
